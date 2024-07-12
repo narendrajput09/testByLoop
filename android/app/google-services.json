@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537561817868",
+    "project_id": "byloop-app",
+    "storage_bucket": "byloop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537561817868:android:d1ed6e059482e053749f29",
+        "android_client_info": {
+          "package_name": "com.app.bylooptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9qDgMfxTxRWn35ZeTX_VR-COGVa7Ljc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
